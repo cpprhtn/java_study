@@ -1,11 +1,7 @@
-package com.cpprhtn;
+package com.cpprhtn.chapter3;
 
-import java.util.*;
-
-public class Main {
-
-    public static void main(String[] args) {
-	// write your code here
+public class OperatorEx2 {
+    public static void main(String args[]) {
         int i=5, j=0;
 
         j = i++;

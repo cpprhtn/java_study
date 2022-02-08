@@ -1,4 +1,4 @@
-package com.cpprhtn;
+package com.cpprhtn.chapter2;
 
 import java.util.*;
 

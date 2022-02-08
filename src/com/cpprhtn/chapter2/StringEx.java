@@ -1,4 +1,4 @@
-package com.cpprhtn;
+package com.cpprhtn.chapter2;
 
 public class StringEx {
     public static void main(String[] args) {
