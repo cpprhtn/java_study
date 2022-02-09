@@ -6,15 +6,11 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        int i=5, j=0;
+        int a = 1000000;
+        int b = 2000000;
 
-        j = i++;
-        System.out.println("j=i++; 실행 후, i=" + i +", j="+ j);
+        long c = a * b;
 
-        i=5;
-        j=0;
-
-        j = ++i;
-        System.out.println("j=++i; 실행 후, i=" + i +", j="+ j);
+        System.out.println(c);
     }
 }
