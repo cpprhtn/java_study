@@ -6,9 +6,27 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        double pi = 3.141592;
-        double shortPi = (int)(pi * 1000 + 0.5) / 1000.0;
+        int[] iArr1 = new int[10];
+        int[] iArr2 = new int[10];
+        int[] iArr3 = {100, 95, 80, 70, 60};
+        char[] chArr = {'a', 'b', 'c', 'd'};
 
-        System.out.println(shortPi);
+        for (int i = 0; i < iArr1.length; i++) {
+            iArr1[i] = i + 1;
+        }
+
+        for (int i = 0; i < iArr2.length; i++) {
+            iArr2[i] = (int) (Math.random() * 10) + 1;
+        }
+
+        for (int i = 0; i < iArr1.length; i++) {
+            System.out.print(iArr1[i] + ",");
+        }
+        System.out.println();
+        System.out.println(Arrays.toString(iArr2));
+        System.out.println(Arrays.toString(iArr3));
+        System.out.println(Arrays.toString(chArr));
+        System.out.println(iArr3);
+        System.out.println(chArr);
     }
 }
