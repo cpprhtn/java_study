@@ -1,11 +1,7 @@
-package com.cpprhtn;
+package com.cpprhtn.chapter5;
 
-import java.util.*;
-
-public class Main {
-
+public class ArrayEx10 {
     public static void main(String[] args) {
-	    // write your code here
         int[] numArr = new int[10];
 
         for (int i=0; i < numArr.length ; i++ ) {
