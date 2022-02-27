@@ -6,7 +6,7 @@ public class SuperTest1 {
         c.method();
     }
 }
-
+/*
 class Parent {
     int x=10;
 }
@@ -18,3 +18,4 @@ class Child extends Parent {
         System.out.println("super.x="+ super.x);
     }
 }
+ */
