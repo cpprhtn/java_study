@@ -1,5 +1,5 @@
 package com.cpprhtn.chapter7;
-
+/*
 public class CaptionTvTest {
     public static void main(String args[]) {
         CaptionTv ctv = new CaptionTv();
@@ -29,3 +29,4 @@ class CaptionTv extends Tv {
         }
     }
 }
+ */
