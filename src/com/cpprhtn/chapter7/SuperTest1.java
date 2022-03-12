@@ -1,11 +1,12 @@
 package com.cpprhtn.chapter7;
-
+/*
 public class SuperTest1 {
     public static void main(String args[]) {
         Child c = new Child();
         c.method();
     }
 }
+ */
 /*
 class Parent {
     int x=10;

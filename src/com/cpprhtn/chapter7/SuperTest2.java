@@ -1,5 +1,5 @@
 package com.cpprhtn.chapter7;
-
+/*
 public class SuperTest2 {
     public static void main(String args[]) {
         Child2 c = new Child2();
@@ -16,3 +16,4 @@ class Child2 extends Parent {
         System.out.println("super.x="+ super.x);
     }
 }
+ */

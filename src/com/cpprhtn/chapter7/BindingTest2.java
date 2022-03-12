@@ -1,5 +1,5 @@
 package com.cpprhtn.chapter7;
-
+/*
 public class BindingTest2 {
     public static void main(String[] args) {
         Parent p = new Child();
@@ -12,3 +12,4 @@ public class BindingTest2 {
         c.method();
     }
 }
+ */
