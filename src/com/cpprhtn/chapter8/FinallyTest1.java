@@ -1,6 +1,6 @@
 package com.cpprhtn.chapter8;
 
-public class FinallyTest {
+public class FinallyTest1 {
     public static void main(String args[]) {
         try {
             startInstall();
