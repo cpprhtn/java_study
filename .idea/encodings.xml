@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx1.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx2.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx3.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx4.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx5.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx6.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx7.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx8.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/com/cpprhtn/chapter10/CalendarEx9.java" charset="x-windows-949" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
